@@ -1,5 +1,5 @@
 html {
-  
+
 }
 
 header {
@@ -13,6 +13,13 @@ header h1 {
 header nav {
   background-color: #66236666;
 }
+
+header li {
+    display:inline-flex;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
 
 main {
   background-color: #ff660066;
