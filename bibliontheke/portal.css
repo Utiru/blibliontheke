@@ -1,0 +1,35 @@
+header {
+  background-color: #ff660066;
+}
+
+header h1 {
+  background-color: #ff006666;
+}
+
+header nav {
+  background-color: #66236666;
+}
+
+main {
+  background-color: #ff660066;
+}
+
+main h1 {
+  background-color: #ff006666;
+}
+
+main h2 {
+  background-color: #f4233266;
+}
+
+main p {
+  background-color: #66236666;
+}
+
+footer {
+  background-color: #ff660066;
+}
+
+footer nav {
+  background-color: #ff006666;
+}
