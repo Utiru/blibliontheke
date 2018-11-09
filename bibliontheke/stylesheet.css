@@ -44,3 +44,9 @@ footer {
 footer nav {
   background-color: #ff006666;
 }
+
+footer li {
+  display:inline-flex;
+  margin-left: 10px;
+  margin-right: 10px;
+}
