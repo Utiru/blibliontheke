@@ -3,6 +3,7 @@ html {
 }
 
 header {
+  text-align: center;
   background-color: #ff660066;
 }
 
@@ -38,6 +39,7 @@ main p {
 }
 
 footer {
+  text-align: center;
   background-color: #ff660066;
 }
 
